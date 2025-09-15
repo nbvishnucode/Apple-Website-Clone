@@ -1,0 +1,142 @@
+
+.nav,a,li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.class{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    padding:0px 20px;
+}
+.applelogo{
+    padding: 20px;
+}
+.text{
+    border-radius: 10px;
+    font-size:20px;
+    width: 500px;
+    font: optional;
+    font-weight: bolder;
+}
+.bag{
+    padding:20px
+}
+.offer{
+    font-size: 20px;
+    text-align: center;
+}
+.watch{
+    text-align: center;
+    background-color:beige;
+    font-size: 25px;
+    line-height:2px;
+    padding: 10px;
+    height: 100vh;
+}
+
+.series{
+    padding: 20px;
+}
+.watchbuy{
+    font-size: 20px;
+    border-radius: 10px;
+    width:80px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+
+}
+.buy:hover{
+    color:white;
+    background-color:rgb(26, 26, 136);
+}
+.watchpic{
+    width:800px;
+
+    padding-bottom: 300px;
+}
+.iPhone{
+    text-align: center;
+    background-color: darkseagreen;
+    line-height: 2px;
+    height: 100vh;
+    font-size: 25px;
+}
+.meet{
+    padding: 10px;
+}
+.phonepic{
+    width:1100px;
+}
+.shop{
+    font-size:20px;
+    border-radius: 20px;
+    width:150px;
+    height: 50px;
+}
+.shop:hover{
+    background-color:rgb(26, 26, 136) ;
+    color: white;
+}
+.macair{
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(179, 227, 107);
+    font-size: 25px;
+    line-height: 2px;
+    padding: 10px;
+}
+.bookbuy{
+    font-size: 20px;
+    border-radius: 20px;
+    width:80px;
+    height: 40px;
+}
+.bookbuy:hover{
+    color: white;
+    background-color: rgb(26, 26, 136);
+}
+.build{
+    margin-top: 20px;
+}
+.ipadair{
+    text-align: center;
+    background-color: khaki;
+    font-size: 25px;
+    line-height: 2px;
+    padding:10px;
+
+}
+.buyipad{
+    border-radius: 20px;
+    font-size: 20px;
+    width: 80px;
+    height: 40px;
+}
+.buyipad:hover{
+    color: white;
+    background-color: rgb(26, 26, 136);
+}
+.airpods{
+    color:black;
+    background-color:blanchedalmond;
+    text-align: center;
+    height: 100vh;
+    font-size: 20px;
+    padding: 10px;
+}
+.pods{
+    height:600px;
+
+}
+
+
+
+
